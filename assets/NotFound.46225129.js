@@ -1,1 +1,0 @@
-import{_ as e,o as n,c as t,b as o}from"./index.761301e6.js";const s={},c=o("span",null,"404 Not Found",-1),_=o("span",null,"\u554A\u5076 \u9875\u9762\u6D88\u5931\u5566\uFF01",-1),a=[c,_];function r(d,l){return n(),t("div",null,a)}const i=e(s,[["render",r]]);export{i as default};
