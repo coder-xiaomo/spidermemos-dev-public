@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as r,o as s}from"./index-DUCw_FRH.js";const t={};function a(c,e){return s(),o("div",null,e[0]||(e[0]=[r("span",null,"User/Login",-1)]))}const _=n(t,[["render",a]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as e,o as s}from"./index-DUCw_FRH.js";const a={};function r(c,n){return s(),t("div",null,n[0]||(n[0]=[e("span",null,"404 Not Found",-1),e("span",null,"啊偶 页面消失啦！",-1)]))}const u=o(a,[["render",r]]);export{u as default};

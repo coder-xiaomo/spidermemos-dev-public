@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as t,o as r}from"./index-DUCw_FRH.js";const l={};function s(a,e){return r(),o("div",null,e[0]||(e[0]=[t("span",null,"Contribute",-1),t("div",{style:{height:"100vh",width:"50px","background-color":"purple"}},null,-1)]))}const u=n(l,[["render",s]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as r,c as t,a as n,b as s,r as a,o as c}from"./index-DUCw_FRH.js";const l={};function _(d,e){const o=a("RouterView");return c(),t("div",null,[e[0]||(e[0]=n("div",null," User ",-1)),s(o)])}const u=r(l,[["render",_]]);export{u as default};

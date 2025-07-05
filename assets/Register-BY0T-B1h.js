@@ -1,0 +1,1 @@
+import{_ as r,c as s,a as t,o as n}from"./index-DUCw_FRH.js";const o={};function a(c,e){return n(),s("div",null,e[0]||(e[0]=[t("span",null,"User/Register",-1)]))}const _=r(o,[["render",a]]);export{_ as default};
