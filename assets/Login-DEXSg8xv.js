@@ -1,0 +1,1 @@
+import{c as e,t,u as n,x as r}from"./_plugin-vue_export-helper-B5DgHVTL.js";var i={};function a(t,i){return r(),n(`div`,null,[...i[0]||=[e(`span`,null,`User/Login`,-1)]])}var o=t(i,[[`render`,a]]);export{o as default};

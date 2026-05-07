@@ -1,0 +1,1 @@
+import{c as e,p as t,t as n,u as r,w as i,x as a}from"./_plugin-vue_export-helper-B5DgHVTL.js";var o={};function s(n,o){let s=i(`RouterView`);return a(),r(`div`,null,[o[0]||=e(`div`,null,` User `,-1),t(s)])}var c=n(o,[[`render`,s]]);export{c as default};
