@@ -1,1 +1,0 @@
-import{_ as o,c as t,a as s,b as r,o as a,h as c}from"./C1tbmLvp.js";const _={};function l(u,e){const n=c;return a(),t("div",null,[e[0]||(e[0]=s("div",null," User ",-1)),r(n)])}const f=o(_,[["render",l]]);export{f as default};
