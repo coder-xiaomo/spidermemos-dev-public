@@ -1,0 +1,1 @@
+import{b as n,i as o,f as r,q as s}from"./BlHG95hJ.js";const t={};function a(c,e){return s(),o("div",null,[...e[0]||(e[0]=[r("span",null,"User/Login",-1)])])}const f=n(t,[["render",a]]);export{f as default};

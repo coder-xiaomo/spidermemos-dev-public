@@ -1,1 +1,0 @@
-import{_ as t,c as o,a as n,o as r}from"./CEwekq0W.js";const l={};function s(a,e){return r(),o("div",null,[...e[0]||(e[0]=[n("span",null,"Contribute",-1),n("div",{style:{height:"100vh",width:"50px","background-color":"purple"}},null,-1)])])}const d=t(l,[["render",s]]);export{d as default};

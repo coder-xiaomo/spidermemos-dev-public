@@ -1,0 +1,1 @@
+import{l as o,q as r,i as s,s as t,m as n,r as c,b as l}from"./BlHG95hJ.js";const d=o({__name:"DynamicBackground",setup(m){const e=c("");return(a,u)=>(r(),s("div",{style:n({backgroundImage:`url('${e.value}')`})},[t(a.$slots,"default",{},void 0,!0)],4))}}),i=l(d,[["__scopeId","data-v-77862b07"]]);export{i as default};
