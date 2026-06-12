@@ -1,1 +1,0 @@
-import{b as s,i as o,f as n,q as t}from"./BlHG95hJ.js";const r={};function a(l,e){return t(),o("div",null,[...e[0]||(e[0]=[n("span",null,"404 Not Found",-1),n("span",null,"啊偶 页面消失啦！",-1)])])}const c=s(r,[["render",a]]);export{c as default};

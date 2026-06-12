@@ -1,1 +1,0 @@
-import{b as t,i as o,f as s,k as r,q as a,a as c}from"./BlHG95hJ.js";const _={};function l(u,e){const n=c;return a(),o("div",null,[e[0]||(e[0]=s("div",null," User ",-1)),r(n)])}const f=t(_,[["render",l]]);export{f as default};

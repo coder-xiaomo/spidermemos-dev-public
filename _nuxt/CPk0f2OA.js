@@ -1,0 +1,1 @@
+import{b as t,k as o,h as s,m as r,s as a,a as c}from"./OeDXaoyd.js";const _={};function l(u,e){const n=c;return a(),o("div",null,[e[0]||(e[0]=s("div",null," User ",-1)),r(n)])}const m=t(_,[["render",l]]);export{m as default};
