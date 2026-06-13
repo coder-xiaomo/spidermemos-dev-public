@@ -1,1 +1,0 @@
-import{f as o,h as s,i as a,c as l,a as t,o as r}from"./B82klpiS.js";const c=o({__name:"index",setup(i){const{t:n}=s();return a({title:n("pages.contribute.title")}),(u,e)=>(r(),l("div",null,[...e[0]||(e[0]=[t("span",null,"Contribute",-1),t("div",{style:{height:"100vh",width:"50px","background-color":"purple"}},null,-1)])]))}});export{c as default};

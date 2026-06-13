@@ -1,1 +1,0 @@
-import{_ as o,c as t,a as s,b as a,o as r,ag as c}from"./B82klpiS.js";const _={};function l(u,e){const n=c;return r(),t("div",null,[e[0]||(e[0]=s("div",null," User ",-1)),a(n)])}const f=o(_,[["render",l]]);export{f as default};
