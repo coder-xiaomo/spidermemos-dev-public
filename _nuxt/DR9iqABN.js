@@ -1,0 +1,1 @@
+import{f as o,c as r,r as n,n as s,g as t,o as c,_ as l}from"./CddS5_pm.js";const _=o({__name:"DynamicBackground",setup(d){const e=t("");return(a,u)=>(c(),r("div",{style:s({backgroundImage:`url('${e.value}')`})},[n(a.$slots,"default",{},void 0,!0)],4))}}),p=l(_,[["__scopeId","data-v-b56b7540"]]);export{p as default};
