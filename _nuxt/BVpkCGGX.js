@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as n,o as t}from"./-sGV08ty.js";const a={};function r(_,e){return t(),s("div",null,[...e[0]||(e[0]=[n("span",null,"404 Not Found",-1),n("span",null,"啊偶 页面消失啦！",-1)])])}const c=o(a,[["render",r]]);export{c as default};
