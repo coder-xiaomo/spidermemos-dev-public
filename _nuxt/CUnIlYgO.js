@@ -1,0 +1,1 @@
+import{n as s,C as o,E as a,k as l,h as t,s as r}from"./g1R1jDBE.js";const c=s({__name:"index",setup(u){const{t:n}=o();return a({title:n("pages.contribute.title")}),(i,e)=>(r(),l("div",null,[...e[0]||(e[0]=[t("span",null,"Contribute",-1),t("div",{style:{height:"100vh",width:"50px","background-color":"purple"}},null,-1)])]))}});export{c as default};
