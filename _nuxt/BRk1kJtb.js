@@ -1,1 +1,0 @@
-import{f as a,o as t,c as o,r as s,n,_ as c}from"./DyY8Y_Am.js";const d=a({__name:"BackgroundImage",props:{src:{type:String,required:!0}},setup(e){return(r,u)=>(t(),o("div",{style:n({backgroundImage:`url('${e.src}')`})},[s(r.$slots,"default",{},void 0,!0)],4))}}),m=c(d,[["__scopeId","data-v-0b082def"]]);export{m as default};

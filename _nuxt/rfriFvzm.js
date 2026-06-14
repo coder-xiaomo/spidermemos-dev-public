@@ -1,1 +1,0 @@
-import{_ as s,c as t,r as c,o as r}from"./DyY8Y_Am.js";const n={},o={class:"fullscreen"};function a(e,l){return r(),t("div",o,[c(e.$slots,"default",{},void 0,!0)])}const d=s(n,[["render",a],["__scopeId","data-v-46789882"]]);export{d as default};
